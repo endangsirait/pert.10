@@ -6,6 +6,10 @@
 <p>mengubah data mahasiswa</p>
 <p>menghapus data semua mahasiswa</p>
 <p>jika sudah tidak menambahkan data maka keluar dari program</p>
+
 ![alt text](praktikum.png?raw=true)
 
-![alt text](?raw=true)
+
+# <p>flowchart</p>
+
+![alt text](flowchart.jpg?raw=true)
