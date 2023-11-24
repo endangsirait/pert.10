@@ -5,4 +5,5 @@
 <p>menambah data mahasiswa</p>
 <p>mengubah data mahasiswa</p>
 <p>menghapus data semua mahasiswa</p>
-<p>menam</p>
+<p>jika sudah tidak menambahkan data maka keluar dari program</p>
+![alt text](?raw=true)
